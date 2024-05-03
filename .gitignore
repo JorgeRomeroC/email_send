@@ -1,2 +1,5 @@
 /.DS_Store
 /sass
+/sass/.DS_Store
+/sass/_base.scss
+/sass/*.scss
